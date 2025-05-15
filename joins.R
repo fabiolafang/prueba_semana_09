@@ -1,11 +1,5 @@
 ## 13 de mayo
 
-# cuando tengo una relación de muchos a muchos (ej. que un curso tenga muchos estudiantes y que un estudiante lleve muchos cursos) se necesita una tabla intermediaria
-
-# un identificador único es un atributo, pero no todo atributo es identificador único
-
-# cada entidad puede tener varios identificadores únicos
-
 library(dplyr)
 
 #Clientes
